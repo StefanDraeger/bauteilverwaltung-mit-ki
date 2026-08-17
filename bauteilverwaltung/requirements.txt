@@ -1,0 +1,4 @@
+# Keine externen Python-Pakete erforderlich.
+# Verwendet ausschließlich Python-Standardbibliothek:
+# - tkinter
+# - sqlite3
